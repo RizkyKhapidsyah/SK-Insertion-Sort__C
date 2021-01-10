@@ -3,8 +3,7 @@ Bahan Ajar Fundamental Pemrograman C - Studi Kasus; Insertion Sort<br><br>
 
 ---
 
-Prinsip dasar Insertion adalah secara berulang-ulang menyisipkan / memasukan setiap elemen. ke dlm posisinya / tempatnya yg benar. <br>
-Prinsip Kerja Insertion Sort adalah
+Prinsip dasar Insertion adalah secara berulang-ulang menyisipkan / memasukan setiap elemen. ke dlm posisinya / tempatnya yg benar. Prinsip Kerja Insertion Sort adalah :
 - Pengecekan mulai dari data ke-1 sampai data ke-n
 - Bandingkan data ke-I ( I = data ke-2 s/d data ke-n )
 - Bandingkan data ke-I tersebut dengan data sebelumnya (I-1), Jika lebih kecil maka data tersebut dapat disisipkan ke data awal sesuai dgn posisisi yang seharusnya.
